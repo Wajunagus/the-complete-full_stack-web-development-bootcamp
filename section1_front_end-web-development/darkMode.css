@@ -5,7 +5,6 @@ a {
     font-weight: bold;
 }
 body {
-    /*background-color: #222222;*/
     background-color: black;
 }
 .date {
@@ -13,7 +12,6 @@ body {
     text-align: right;
 }
 .date > span {
-    /*padding: 5px 10px;*/
     padding: 2.5px;
     color: black;
     background-color: azure;
@@ -25,22 +23,8 @@ footer {
     margin: auto;
     padding: 5px 10px;
     color: darkgrey;
-    /*width: 100%;*/
-    /*border-radius: 10px;*/
     text-align: center;
 }
-/*
-footer p {
-    margin: 5px 0;
-}
-.ft-hlt {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px 5px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-*/
 .fsi {
     font-style: italic;
     color: whitesmoke;
@@ -65,42 +49,15 @@ h5 {
 h6 {
     font-size: 12pt;
 }
-/*
-.hlt {
-    margin: 5px 0;
-    padding: 5px 10px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-.s-hlt {
-    color: black;
-    background-color: azure;
-    padding: 0 5px;
-}
-*/
 header {
-    /*
-    margin-left: auto;
-    margin-right: auto;
-    */
     margin: auto;
-    /*margin-top: 10px;*/
-    /*margin-bottom: 10px;*/
     padding: 5px 10px;
-    /*width: 100%;*/
     text-align: center;
-    /*background-color: #222222;*/
-    /*border-radius: 10px;*/
-    /*line-height: 80%;*/
 }
 header hr {
     border: 1px dotted grey;
 }
 header img {
-    /*
-    margin-left: auto;
-    margin-right: auto;
-    */
     margin: auto;
     width: 40%;
 }
@@ -110,13 +67,6 @@ header img {
     margin-bottom: 0;
     width: 3%;
 }
-/*
-header p {
-    margin: 3px 0;
-    font-size: 16pt;
-    color: rgb(165, 148, 249);
-}
-*/
 header small {
     font-size: 11pt;
     color: #AC7EE1;
@@ -128,7 +78,6 @@ header ul {
     display: inline-block;
 }
 header li {
-    /*margin-right: 5px;*/
     color: cornflowerblue;
     display: inline-block;
 }
@@ -168,23 +117,9 @@ img {
 main {
     margin: auto;
     padding: 5px 10px;
-    /*width: 100%;*/
     color: darkgrey;
     line-height: 1.6;
 }
-/*
-main li {
-    margin: 5px 0;
-    padding-left: 5px;
-}
-main > ul {
-    margin: 5px 0;
-    padding: 5px 40px;
-    border-left: 3px solid red;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-*/
 strong {
     font-weight: normal;
     color: darkkhaki;
